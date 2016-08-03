@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="0.502004">
+<testcase classname="NetEnt - interview Nicolas Mori" name="Make a differents types of actions with Json." time="0.453516">
+<system-out><![CDATA[Given the url "http://localhost:3000/" and the database "post"..............passed
+And I make the action "get a list" using this id "", this userId "", and this title "".passed
+]]></system-out>
+</testcase>
+<testcase classname="NetEnt - interview Nicolas Mori" name="Make a differents types of actions with Json. 2" time="0.008506">
+<system-out><![CDATA[Given the url "http://localhost:3000/" and the database "post"..............passed
+And I make the action "get a register" using this id "13", this userId "25", and this title "Automation Title".passed
+]]></system-out>
+</testcase>
+<testcase classname="NetEnt - interview Nicolas Mori" name="Make a differents types of actions with Json. 3" time="0.01612">
+<system-out><![CDATA[Given the url "http://localhost:3000/" and the database "post"..............passed
+And I make the action "update a register" using this id "7", this userId "23", and this title "Automation Title".passed
+]]></system-out>
+</testcase>
+<testcase classname="NetEnt - interview Nicolas Mori" name="Make a differents types of actions with Json. 4" time="0.016199">
+<system-out><![CDATA[Given the url "http://localhost:3000/" and the database "post"..............passed
+And I make the action "insert a register" using this id "112", this userId "62", and this title "Automation Title".passed
+]]></system-out>
+</testcase>
+<testcase classname="NetEnt - interview Nicolas Mori" name="Make a differents types of actions with Json. 5" time="0.007663">
+<system-out><![CDATA[Given the url "http://localhost:3000/" and the database "post"..............passed
+And I make the action "delete a register" using this id "3", this userId "22", and this title "Automation Title".passed
+]]></system-out>
+</testcase>
+</testsuite>
